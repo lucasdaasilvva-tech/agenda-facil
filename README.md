@@ -22,7 +22,7 @@ Funcionalidades
 
 Tecnologia utilizada
 
-* Python 3.
+* Python 
 
 Como executar
 
