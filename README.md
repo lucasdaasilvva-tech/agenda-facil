@@ -26,7 +26,7 @@ Tecnologia utilizada
 
 Como executar
 
-1. Instale o Python 3.
+1. Instale o Python.
 2. Baixe o arquivo agenda_facil_py3.py.
 3. Abra o arquivo em um editor Python, como o Thonny.
 4. Execute o programa.
